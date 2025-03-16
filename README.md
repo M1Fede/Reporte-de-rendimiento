@@ -1,4 +1,6 @@
 # Reporte-de-rendimiento
+PD: El script utiliza una librería propia.
+
 Este script genera un archivo PDF y lo guarda en la carpeta del cliente.
 El reporte contiene la siguiente información para el período analizado: 
 0) Dos imágenes, una para la página 1 y otra para la página 2. 
